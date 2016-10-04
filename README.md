@@ -1,6 +1,6 @@
 # Titanic
 
-My personnal anbalysis done on the first project of Udemy course "Learning Python for data analysis and visualization" based on Kaggle challenge. 
+My personal analysis done on the first project of Udemy course "Learning Python for data analysis and visualization" based on Kaggle challenge. 
 
 The dataset is explored to answer the following questions :
 
